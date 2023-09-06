@@ -1,0 +1,5 @@
+name: Display dates (by locale)
+description: Display various dates of interest (for  objects in our "collections") in ways that are sensitive to (the locale of) visitors from all over the world.
+authors:
+  - Krishnan
+load_type: d
